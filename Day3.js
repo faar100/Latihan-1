@@ -75,7 +75,7 @@ console.log(dataBulan[bulan]);
 
 // git add .
 // git commit -m "first commit"
-// git remote add origin alamat-repo
+// git remote add origin https://github.com/faar100/Latihan.git
 // git push origin main
 
 
