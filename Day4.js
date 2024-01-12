@@ -1,22 +1,22 @@
-// function cekDiskon(hari){
-//     let diskon
-//     if(hari === "jumat"){
-//         diskon = 10000
-//     }
-//     return diskon
-// }
-// console.log(cekDiskon("jumat"));
+function cekDiskon(hari){
+    let diskon
+    if(hari === "jumat"){
+        diskon = 10000
+    }
+    return diskon
+}
+console.log(cekDiskon("jumat"));
 
-// function cekDiskon(hari){
-//     let diskon
-//     if(hari === "jumat"){
-//         diskon = 10000
-//     } else { 
-//         diskon
-//     }
-//     return diskon
-// }
-// console.log(cekDiskon("jumat"));
+function cekDiskon(hari){
+    let diskon
+    if(hari === "jumat"){
+        diskon = 10000
+    } else { 
+        diskon
+    }
+    return diskon
+}
+console.log(cekDiskon("jumat"));
 
 
 // [latihan 1]
